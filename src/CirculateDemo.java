@@ -82,10 +82,5 @@ public class CirculateDemo {
                 System.out.print("*");
             }
         }
-
-
-
-
-
     }
 }
